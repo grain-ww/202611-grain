@@ -1,0 +1,32 @@
+# Grain (grain-ww) -- LLM & Agent Entry Router
+# Stamp: 20261119.152019 -- pure 7-bit ASCII, single-stranded entry list
+# Priority head (read these first)
+
+GEMINI.md
+.gemini/rules/README.md
+LEXICON.md
+MAP.md
+construction/ITINERARY.md
+context/SPELLBOOK.md
+template-manifest.kyri
+
+# Five Elemental Rule Cards (.gemini/rules/)
+
+.gemini/rules/aether-purpose-and-sameness.md
+.gemini/rules/air-stamp-and-naming.md
+.gemini/rules/fire-tame-and-reds-first.md
+.gemini/rules/water-voice-and-glasswall.md
+.gemini/rules/earth-rooms-molt-and-seed.md
+
+# Scoped Language, Module, & Library Doors
+
+languages/GEMINI.md
+modules/GEMINI.md
+libraries/GEMINI.md
+libraries/MULTI_YEAR_BLOOM_SHASTRA_CURRICULUM.md
+docs-geode/architecture/conservation-equations.md
+docs-geode/architecture/calfive-fifteen-signs-and-torus-synthesis.md
+context/APARIGRAHA.md
+context/TWO_ROOMS.md
+STEWARDS.md
+ORGANIZING.md
